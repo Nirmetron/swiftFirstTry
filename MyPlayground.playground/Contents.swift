@@ -73,4 +73,4 @@ let House2 = House(number: 2, residents: 2, address: "Putis street")
 
 let Houses = Set([House1,House2,HouseFake])
 Houses.count;
-//poggers it works
+//pog it works
